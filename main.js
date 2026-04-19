@@ -1,5 +1,5 @@
 // main.js - Películas TMDB (API Key directa)
-const API_KEY = "436b71c4";   // ←←← REEMPLAZA CON TU CLAVE REAL
+const API_KEY = "f7bacd5b628efa9882c02ad57eebd689";   // ←←← REEMPLAZA CON TU CLAVE REAL
 
 const moviesContainer = document.getElementById('moviesContainer');
 const paginationContainer = document.getElementById('pagination');
